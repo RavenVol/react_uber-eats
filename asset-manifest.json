@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/react_uber-eats/static/css/main.65938976.chunk.css",
-    "main.js": "/react_uber-eats/static/js/main.c52d50dd.chunk.js",
-    "main.js.map": "/react_uber-eats/static/js/main.c52d50dd.chunk.js.map",
+    "main.css": "/react_uber-eats/static/css/main.800504fc.chunk.css",
+    "main.js": "/react_uber-eats/static/js/main.8faaa59a.chunk.js",
+    "main.js.map": "/react_uber-eats/static/js/main.8faaa59a.chunk.js.map",
     "runtime~main.js": "/react_uber-eats/static/js/runtime~main.bef14170.js",
     "runtime~main.js.map": "/react_uber-eats/static/js/runtime~main.bef14170.js.map",
-    "static/js/2.ec295295.chunk.js": "/react_uber-eats/static/js/2.ec295295.chunk.js",
-    "static/js/2.ec295295.chunk.js.map": "/react_uber-eats/static/js/2.ec295295.chunk.js.map",
+    "static/js/2.415cddbf.chunk.js": "/react_uber-eats/static/js/2.415cddbf.chunk.js",
+    "static/js/2.415cddbf.chunk.js.map": "/react_uber-eats/static/js/2.415cddbf.chunk.js.map",
     "index.html": "/react_uber-eats/index.html",
-    "precache-manifest.4831411afdd49c016f287f8976f8d4d0.js": "/react_uber-eats/precache-manifest.4831411afdd49c016f287f8976f8d4d0.js",
+    "precache-manifest.62c4b40c3f3ca90f293622a2e2ddb1aa.js": "/react_uber-eats/precache-manifest.62c4b40c3f3ca90f293622a2e2ddb1aa.js",
     "service-worker.js": "/react_uber-eats/service-worker.js",
-    "static/css/main.65938976.chunk.css.map": "/react_uber-eats/static/css/main.65938976.chunk.css.map"
+    "static/css/main.800504fc.chunk.css.map": "/react_uber-eats/static/css/main.800504fc.chunk.css.map",
+    "static/media/header.css": "/react_uber-eats/static/media/search.d3cc30e9.svg",
+    "static/media/Logo.svg": "/react_uber-eats/static/media/Logo.bd594fcc.svg",
+    "static/media/fb_soc.svg": "/react_uber-eats/static/media/fb_soc.88ec07c9.svg",
+    "static/media/ig_soc.svg": "/react_uber-eats/static/media/ig_soc.0cfb1f4a.svg",
+    "static/media/tweet_soc.svg": "/react_uber-eats/static/media/tweet_soc.b04b2c7f.svg"
   }
 }
